@@ -139,7 +139,7 @@ fun main() {
             programRun1 = 1
             println()
         }
-    } //try check number format
+    } //try check number format test
 
     val seatList = MutableList(rowsNumber) { MutableList(seatsNumber) { "S" } } //list crate
 
